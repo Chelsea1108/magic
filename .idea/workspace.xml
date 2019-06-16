@@ -1,57 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2c9fcc8-a5a6-4f4f-8cbb-41bdd97210f6" name="Default Changelist" comment="V1.0.0.1">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/config.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/src/main/java/com/magic/ConfigApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaclient/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaclient/src/main/java/com/magic/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaclient/src/main/java/com/magic/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaclient/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaclient/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaclient/target/classes/com/magic/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaclient/target/classes/com/magic/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/src/main/java/com/magic/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/target/classes/com/magic/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/src/main/java/com/magic/ApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/src/main/java/com/magic/ApiService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/src/main/java/com/magic/ApiServiceError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/src/main/java/com/magic/FeignApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/src/test/java/com/magic/TestF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/target/classes/com/magic/ApiController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/target/classes/com/magic/ApiService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/target/classes/com/magic/ApiServiceError.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/target/classes/com/magic/FeignApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign/target/test-classes/com/magic/TestF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/com/magic/GateWayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/com/magic/gateway/ApiGlobalFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/com/magic/gateway/ErrorHandlerConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/com/magic/gateway/JsonExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/target/classes/META-INF/gateway.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/target/classes/com/magic/GateWayApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/target/classes/com/magic/gateway/ApiGlobalFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/target/classes/com/magic/gateway/ErrorHandlerConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/target/classes/com/magic/gateway/JsonExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud.iml" afterDir="false" />
+    <list default="true" id="e2c9fcc8-a5a6-4f4f-8cbb-41bdd97210f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -254,7 +205,14 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="237" />
     <option name="y" value="40" />
     <option name="width" value="1750" />
@@ -633,8 +591,16 @@
       <option name="presentableId" value="Default" />
       <updated>1560429686754</updated>
       <workItem from="1560429691707" duration="4971000" />
-      <workItem from="1560684520750" duration="6773000" />
+      <workItem from="1560684520750" duration="7415000" />
     </task>
+    <task id="LOCAL-00001" summary="V1.0.0.1">
+      <created>1560691627560</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560691627560</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -649,10 +615,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11744000" />
+    <option name="totallyTimeSpent" value="12386000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22788204" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
